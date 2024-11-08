@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\rekrutacja_app\rekrutacja_app\bin\Debug\net8.0\rekrutacja_app.exe
+C:\Users\Admin\source\repos\rekrutacja_app\rekrutacja_app\bin\Debug\net8.0\rekrutacja_app.deps.json
+C:\Users\Admin\source\repos\rekrutacja_app\rekrutacja_app\bin\Debug\net8.0\rekrutacja_app.runtimeconfig.json
+C:\Users\Admin\source\repos\rekrutacja_app\rekrutacja_app\bin\Debug\net8.0\rekrutacja_app.dll
+C:\Users\Admin\source\repos\rekrutacja_app\rekrutacja_app\bin\Debug\net8.0\rekrutacja_app.pdb
+C:\Users\Admin\source\repos\rekrutacja_app\rekrutacja_app\obj\Debug\net8.0\rekrutacja_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\rekrutacja_app\rekrutacja_app\obj\Debug\net8.0\rekrutacja_app.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\rekrutacja_app\rekrutacja_app\obj\Debug\net8.0\rekrutacja_app.AssemblyInfo.cs
+C:\Users\Admin\source\repos\rekrutacja_app\rekrutacja_app\obj\Debug\net8.0\rekrutacja_app.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\rekrutacja_app\rekrutacja_app\obj\Debug\net8.0\rekrutacja_app.dll
+C:\Users\Admin\source\repos\rekrutacja_app\rekrutacja_app\obj\Debug\net8.0\refint\rekrutacja_app.dll
+C:\Users\Admin\source\repos\rekrutacja_app\rekrutacja_app\obj\Debug\net8.0\rekrutacja_app.pdb
+C:\Users\Admin\source\repos\rekrutacja_app\rekrutacja_app\obj\Debug\net8.0\rekrutacja_app.genruntimeconfig.cache
+C:\Users\Admin\source\repos\rekrutacja_app\rekrutacja_app\obj\Debug\net8.0\ref\rekrutacja_app.dll
